@@ -13,7 +13,7 @@
 
 
 [climax]
-
+all mine
 
 [resolution]
 
